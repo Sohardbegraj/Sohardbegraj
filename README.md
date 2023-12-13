@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Sohard Begraj, a second-year Mathematics and Computing student at the National Institute of Technology Hamirpur. I completed my schooling at Kendriya Vidyalaya Jakhoo Hills in Shimla. My passion for technology and coding has led me to pursue my goal of becoming a Software Engineer.
+- 👋 Hello, I'm Sohard Begraj, Mathematics and Computing student at the National Institute of Technology Hamirpur. My passion for technology and coding has led me to pursue my goal of becoming a Software Engineer.
 - 👀 I’m interested in coding and programing
 - 🌱 I’m currently learning JS and DSA and python 
 - 💞️ I’m looking to collaborate on ...
