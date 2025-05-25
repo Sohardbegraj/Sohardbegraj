@@ -9,7 +9,7 @@
 
 - **Languages:** Python, JavaScript, (learning Rust)
 - **Web:** MERN Stack (MongoDB, Express, React, Node.js)
-- **Interests:** Algorithms, problem-solving, mathematics, and building cool tech
+- **CS Interests:** Data Structures & Algorithms, LeetCode problem solving, mathematics, and building cool tech
 
 ---
 
@@ -17,6 +17,7 @@
 
 ✨ Always curious and eager to learn  
 ♟️ Chess enthusiast (working on a Rust chess engine as an idea!)  
+🧮 Solving DSA challenges and LeetCode problems regularly  
 🚀 Building projects and sharpening my skills every day
 
 ---
@@ -25,10 +26,8 @@
 
 - I love chess and coding—sometimes both at once!
 - My goal is to create impactful projects and contribute to open-source
+- Currently focused on mastering DSA and competitive programming
+
 
 
 Thanks for visiting my profile! Let's connect and learn together. 🚀
-- 📫 How to reach me on email sohard16begraj@gmail.com 
-- linkdin-->https://www.linkedin.com/in/sohard-begraj-a82343259/
-
-
