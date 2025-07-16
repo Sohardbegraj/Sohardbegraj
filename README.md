@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm sohard begraj</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">A passionate learner</h3>
+<img src="https://giffiles.alphacoders.com/211/211931.gif">
 
 
 ## 🏆 GitHub Trophies
